@@ -1,6 +1,4 @@
-# python-programming-lw3
-Пакет для лабораторної роботи №3 з дисципліни "Програмування з Python" та демонстраційна програма
 
-* Програма-демонстрація роботи модуля gt_translator (використовує бібліотеку googletrans) знаходиться у файлі gtrans.py
-* Програма-демонстрація роботи модуля dt_translator (використовує бібліотеку deep-translator) знаходиться у файлі deeptr.py
-* Програма-демонстрація роботи модулів з використанням файлів знаходиться у файлі filter.py, налаштування до програми - в config.json 
+* The gt_translator module demonstration program (uses the googletrans library) is in the gtrans.py file
+* The dt_translator module demo program (uses the deep-translator library) is in the deeptr.py file
+* The program-demonstration of modules using files is in the file filter.py, settings for the program are in config.json

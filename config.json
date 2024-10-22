@@ -1,0 +1,8 @@
+{
+  "source_filename": "some_text.txt",
+  "target_language": "pl",
+  "result_location": "screen", 
+  "symbol_number": 500,
+  "word_number": 93,
+  "sentence_number": 10
+}

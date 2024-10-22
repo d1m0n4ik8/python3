@@ -1,0 +1,137 @@
+№    ISO-639 code  Language Name       Text exapmle
+------------------------------------------------------------
+1.   af           afrikaans           	in
+2.   sq           albanian            	në
+3.   am           amharic             	ውስጥ
+4.   ar           arabic              	في
+5.   hy           armenian            	մեջ
+6.   as           assamese            	ভিতৰত
+7.   ay           aymara              	ukana
+8.   az           azerbaijani         	in
+9.   bm           bambara             	kɔnɔ
+10.  eu           basque              	urtean
+11.  be           belarusian          	ст
+12.  bn           bengali             	মধ্যে
+13.  bho          bhojpuri            	में
+14.  bs           bosnian             	in
+15.  bg           bulgarian           	в
+16.  ca           catalan             	a
+17.  ceb          cebuano             	sa
+18.  ny           chichewa            	mu
+19.  zh-CN        chinese (simplified)	在
+20.  zh-TW        chinese (traditional)	在
+21.  co           corsican            	in
+22.  hr           croatian            	u
+23.  cs           czech               	v
+24.  da           danish              	i
+25.  dv           dhivehi             	އެތެރެ
+26.  doi          dogri               	च
+27.  nl           dutch               	in
+28.  en           english             	in
+29.  eo           esperanto           	en
+30.  et           estonian            	sisse
+31.  ee           ewe                 	eme
+32.  tl           filipino            	sa
+33.  fi           finnish             	sisään
+34.  fr           french              	dans
+35.  fy           frisian             	yn
+36.  gl           galician            	en
+37.  ka           georgian            	in
+38.  de           german              	In
+39.  el           greek               	σε
+40.  gn           guarani             	pe
+41.  gu           gujarati            	માં
+42.  ht           haitian creole      	nan
+43.  ha           hausa               	in
+44.  haw          hawaiian            	i loko
+45.  iw           hebrew              	ב
+46.  hi           hindi               	में
+47.  hmn          hmong               	hauv
+48.  hu           hungarian           	be
+49.  is           icelandic           	inn
+50.  ig           igbo                	n'ime
+51.  ilo          ilocano             	iti
+52.  id           indonesian          	di dalam
+53.  ga           irish               	isteach
+54.  it           italian             	In
+55.  ja           japanese            	で
+56.  jw           javanese            	ing
+57.  kn           kannada             	ಒಳಗೆ
+58.  kk           kazakh              	жылы
+59.  km           khmer               	នៅក្នុង
+60.  rw           kinyarwanda         	in
+61.  gom          konkani             	हातूंत
+62.  ko           korean              	~에
+63.  kri          krio                	in
+64.  ku           kurdish (kurmanji)  	li
+65.  ckb          kurdish (sorani)    	لە
+66.  ky           kyrgyz              	ичинде
+67.  lo           lao                 	ໃນ
+68.  la           latin               	in
+69.  lv           latvian             	iekšā
+70.  ln           lingala             	na
+71.  lt           lithuanian          	in
+72.  lg           luganda             	mu
+73.  lb           luxembourgish       	an
+74.  mk           macedonian          	во
+75.  mai          maithili            	में
+76.  mg           malagasy            	in
+77.  ms           malay               	dalam
+78.  ml           malayalam           	ഇൻ
+79.  mt           maltese             	fi
+80.  mi           maori               	i roto
+81.  mr           marathi             	मध्ये
+82.  mni-Mtei     meiteilon (manipuri)	ꯏꯟ
+83.  lus          mizo                	chhung
+84.  mn           mongolian           	in
+85.  my           myanmar             	၌
+86.  ne           nepali              	मा
+87.  no           norwegian           	i
+88.  or           odia (oriya)        	ଭିତରେ
+89.  om           oromo               	keessa
+90.  ps           pashto              	په
+91.  fa           persian             	در
+92.  pl           polish              	W
+93.  pt           portuguese          	em
+94.  pa           punjabi             	ਵਿੱਚ
+95.  qu           quechua             	in
+96.  ro           romanian            	în
+97.  ru           russian             	в
+98.  sm           samoan              	i totonu
+99.  sa           sanskrit            	इत्यस्मिन्‌
+100. gd           scots gaelic        	anns
+101. nso          sepedi              	ka
+102. sr           serbian             	ин
+103. st           sesotho             	ho
+104. sn           shona               	mu
+105. sd           sindhi              	۾
+106. si           sinhala             	තුළ
+107. sk           slovak              	v
+108. sl           slovenian           	v
+109. so           somali              	gudaha
+110. es           spanish             	en
+111. su           sundanese           	di
+112. sw           swahili             	katika
+113. sv           swedish             	i
+114. tg           tajik               	дар
+115. ta           tamil               	உள்ளே
+116. tt           tatar               	.әр сүзнең
+117. te           telugu              	లో
+118. th           thai                	ใน
+119. ti           tigrinya            	አብ ውሽጢ
+120. ts           tsonga              	endzeni
+121. tr           turkish             	içinde
+122. tk           turkmen             	içinde
+123. ak           twi                 	mu
+124. uk           ukrainian           	в
+125. ur           urdu                	میں
+126. ug           uyghur              	in
+127. uz           uzbek               	ichida
+128. vi           vietnamese          	TRONG
+129. cy           welsh               	mewn
+130. xh           xhosa               	kwi
+131. yi           yiddish             	אין
+132. yo           yoruba              	ninu
+133. zu           zulu                	phakathi
+------------------------------------------------------------
+Ok
